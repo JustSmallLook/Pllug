@@ -1,0 +1,6 @@
+D:\C# Lessons\Frig\Frig\Frig\bin\Release\Frig.exe.config
+D:\C# Lessons\Frig\Frig\Frig\bin\Release\Frig.exe
+D:\C# Lessons\Frig\Frig\Frig\bin\Release\Frig.pdb
+D:\C# Lessons\Frig\Frig\Frig\obj\Release\Frig.csproj.CoreCompileInputs.cache
+D:\C# Lessons\Frig\Frig\Frig\obj\Release\Frig.exe
+D:\C# Lessons\Frig\Frig\Frig\obj\Release\Frig.pdb

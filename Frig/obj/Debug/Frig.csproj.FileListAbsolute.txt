@@ -1,0 +1,7 @@
+D:\C# Lessons\Frig\Frig\Frig\bin\Debug\Frig.exe.config
+D:\C# Lessons\Frig\Frig\Frig\bin\Debug\Frig.exe
+D:\C# Lessons\Frig\Frig\Frig\bin\Debug\Frig.pdb
+D:\C# Lessons\Frig\Frig\Frig\obj\Debug\Frig.csprojAssemblyReference.cache
+D:\C# Lessons\Frig\Frig\Frig\obj\Debug\Frig.csproj.CoreCompileInputs.cache
+D:\C# Lessons\Frig\Frig\Frig\obj\Debug\Frig.exe
+D:\C# Lessons\Frig\Frig\Frig\obj\Debug\Frig.pdb
