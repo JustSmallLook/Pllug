@@ -1,0 +1,7 @@
+D:\PLLUG\Frig_v2\bin\Debug\Frig_v2.exe.config
+D:\PLLUG\Frig_v2\bin\Debug\Frig_v2.exe
+D:\PLLUG\Frig_v2\bin\Debug\Frig_v2.pdb
+D:\PLLUG\Frig_v2\obj\Debug\Frig_v2.csprojAssemblyReference.cache
+D:\PLLUG\Frig_v2\obj\Debug\Frig_v2.csproj.CoreCompileInputs.cache
+D:\PLLUG\Frig_v2\obj\Debug\Frig_v2.exe
+D:\PLLUG\Frig_v2\obj\Debug\Frig_v2.pdb
